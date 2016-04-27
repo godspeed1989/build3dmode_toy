@@ -1,0 +1,10 @@
+####Input
+	K: Camera intrinsic
+	R: Image Rotation matrix
+	t: Translation vector
+
+####Output
+	PLY point cloud
+
+####Usage	
+	./build3dmode -w ./templeSparseRing
